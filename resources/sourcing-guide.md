@@ -154,7 +154,22 @@ _**Quick note** This page doesn't contain a '**single bill of materials'**. Inst
 
 ### Nema 17
 
-<table data-view="cards"><thead><tr><th>Store Name</th><th>Ships To</th><th>Ships From</th><th>Note</th></tr></thead><tbody><tr><td><a href="https://www.fabreeko.com/products/zero-g-ab-motors-by-honeybadger?_pos=2&#x26;_sid=b7db3078d&#x26;_ss=r&#x26;variant=43510563176703">Fabreeko</a></td><td>International</td><td>US</td><td>N/A</td></tr><tr><td><a href="https://3do.dk/en/motors/1170-nema17-42sth48-2504ac.html">3DO</a></td><td>EU</td><td>DK / EU</td><td>N/A</td></tr><tr><td><a href="https://collabs.shop/p8eh44">West3D</a></td><td>International</td><td>US</td><td>N/A</td></tr><tr><td><a href="https://s.click.aliexpress.com/e/_Aq98MK">AliExpress - Stepper Online</a></td><td>International</td><td>International</td><td>N/A</td></tr></tbody></table>
+| Store Name                                                                                                                        | Ships To      | Ships From    | Note |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- | ---- |
+| [Fabreeko](https://www.fabreeko.com/products/zero-g-ab-motors-by-honeybadger?_pos=2&_sid=b7db3078d&_ss=r\&variant=43510563176703) | International | US            | N/A  |
+| [3DO](https://3do.dk/en/motors/1170-nema17-42sth48-2504ac.html)                                                                   | EU            | DK / EU       | N/A  |
+| [West3D](https://collabs.shop/p8eh44)                                                                                             | International | US            | N/A  |
+| [AliExpress - Stepper Online](https://s.click.aliexpress.com/e/_Aq98MK)                                                           | International | International | N/A  |
+
+## Controller Boards
+
+### Spider V3.0
+
+| Store Name                                                                                                                   | Ships To      | Ships From    | Note |
+| ---------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- | ---- |
+| [Fabreeko](https://www.fabreeko.com/products/fystec-spider-voron-design?_pos=1&_sid=3ff0ff26b&_ss=r\&variant=44184259395839) | International | US            | N/A  |
+| AliExpress - Fysetc                                                                                                          | EU            | DK / EU       | N/A  |
+| Placeholder                                                                                                                  | International | International | N/A  |
 
 [^1]: This lightweight gantry is 370mm, make sure you're going after the correct size for your machine.
 
