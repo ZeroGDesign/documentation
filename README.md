@@ -31,7 +31,13 @@ Currently we’re working on instructions for two of our projects. Our projects 
 
 _The documentation is still a work in progress so keep in mind it’s not complete._
 
-[Mercury One.1](https://docs.zerog.one/manual/build/mercury_eva) [Hydra](https://docs.zerog.one/manual/build/hydra)
+{% content-ref url="guides/assembly/mercury-one.1/" %}
+[mercury-one.1](guides/assembly/mercury-one.1/)
+{% endcontent-ref %}
+
+{% content-ref url="guides/assembly/hydra/" %}
+[hydra](guides/assembly/hydra/)
+{% endcontent-ref %}
 
 ## Discord
 
