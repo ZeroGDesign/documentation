@@ -16,8 +16,6 @@ description: >-
 First, launch your SSH client, in my case it's [Putty](https://www.putty.org/).
 
 <img src="https://docs2.zerog.one/images/other/mainsail/theme/step1.png" alt="" data-size="original">
-
-
 {% endstep %}
 
 {% step %}
@@ -34,8 +32,6 @@ Follow the prompts to connect to your Raspberry. Note that your local IP address
 Your console should look similar to this.
 
 <img src="https://docs.zerog.one/assets/images/howto/theme/step2.png" alt="" data-size="original">
-
-
 {% endstep %}
 {% endstepper %}
 
@@ -141,8 +137,6 @@ If a notification appears asking you to **try again**, click on it to proceed.
 Refresh your browser to check if the ZeroG theme is now visible.
 
 <img src="https://docs2.zerog.one/images/other/mainsail/theme/step11.png" alt="" data-size="original">
-
-###
 {% endstep %}
 {% endstepper %}
 
