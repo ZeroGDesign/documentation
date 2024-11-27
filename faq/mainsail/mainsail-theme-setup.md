@@ -9,43 +9,71 @@ description: >-
 
 ## Connect to SSH
 
+{% stepper %}
+{% step %}
+### Launch your SSH client.
+
 First, launch your SSH client, in my case it's [Putty](https://www.putty.org/).
 
-<div align="left"><img src="https://docs2.zerog.one/images/other/mainsail/theme/step1.png" alt=""></div>
+<img src="https://docs2.zerog.one/images/other/mainsail/theme/step1.png" alt="" data-size="original">
+
+
+{% endstep %}
+
+{% step %}
+### Sign in
 
 Then enter your Raspberry’s local IP address in the “Host” or “Server” field.
 
 Follow the prompts to connect to your Raspberry. Note that your local IP address may differ from the one used in the example.
+{% endstep %}
 
-### SSH Console
+{% step %}
+### Check your SSH Console
 
-Your console should look similar to this
+Your console should look similar to this.
 
-<div align="left"><img src="https://docs.zerog.one/assets/images/howto/theme/step2.png" alt=""></div>
+<img src="https://docs.zerog.one/assets/images/howto/theme/step2.png" alt="" data-size="original">
 
-### Execute Commands
+
+{% endstep %}
+{% endstepper %}
+
+### SSH Console & Commands
+
+{% stepper %}
+{% step %}
+### Execute the following Commands
 
 ```bash
 cd ~/
 git clone https://github.com/ZeroGDesign/zerog-mainsail-theme.git
 bash ~/zerog-mainsail-theme/install.sh
 ```
+{% endstep %}
 
-Copy
+{% step %}
+### Double check
 
-If done correctly out would look somewhat like this image:
+If done correctly out would look somewhat like thi
 
-<div align="left"><img src="https://docs.zerog.one/assets/images/howto/theme/step3.png" alt=""></div>
+<img src="https://docs.zerog.one/assets/images/howto/theme/step3.png" alt="" data-size="original">
 
 {% hint style="info" %}
 The input field still shows a command we have to run, press **ENTER** on your keyboard to run the command.
 {% endhint %}
+{% endstep %}
+
+{% step %}
+### Ran the Code
 
 Once executed, your console should display the message ‘_Theme has been installed, have fun!_’ indicating that this step is now complete.
 
-<div align="left"><img src="https://docs2.zerog.one/images/other/mainsail/theme/step4.png" alt=""></div>
+<img src="https://docs2.zerog.one/images/other/mainsail/theme/step4.png" alt="" data-size="original">
+{% endstep %}
+{% endstepper %}
 
-***
+
 
 
 
