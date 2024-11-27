@@ -28,6 +28,7 @@
 
 * [Discord](https://discord.gg/zerog)
 * [Github](https://github.com/ZeroGDesign)
+* [Copy of Github](https://github.com/ZeroGDesign)
 
 ## FAQ
 
