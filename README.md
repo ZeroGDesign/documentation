@@ -4,7 +4,7 @@ coverY: 100.70181818181818
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: false
   description:
@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Zero G
+# Welcome to ZeroG
 
 ## Welcome
 

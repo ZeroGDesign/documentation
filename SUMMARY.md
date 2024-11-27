@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Zero G](README.md)
+* [Welcome to ZeroG](README.md)
 
 ## Guides
 
