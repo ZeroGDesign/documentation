@@ -15,10 +15,10 @@
   * [Mercury One.1](guides/assembly/mercury-one.1/README.md)
     * [Need to know](guides/assembly/mercury-one.1/need-to-know.md)
     * [Bill of material](guides/assembly/mercury-one.1/bill-of-material.md)
-* [Design](guides/design.md)
 * [Printing](guides/printing/README.md)
   * [Printing tips](guides/printing/printing-tips.md)
   * [Print settings](guides/printing/print-settings.md)
+* [Design](guides/design.md)
 
 ## Resources
 
@@ -28,3 +28,8 @@
 
 * [Discord](https://discord.gg/zerog)
 * [Github](https://github.com/ZeroGDesign)
+
+## FAQ
+
+* [Mainsail](faq/mainsail/README.md)
+  * [Mainsail Theme Setup](faq/mainsail/mainsail-theme-setup.md)
