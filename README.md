@@ -25,7 +25,7 @@ The Zero G documentation will give you a start building your project, learning a
 
 ## Getting Started
 
-On this website you’ll find all sorts of information, [ABS Printing Tips](https://docs.zerog.one/manual/print/abs), [Print Settings](https://docs.zerog.one/standard/print/settings), [Design Guidelines](https://docs.zerog.one/standard/cad/guidelines), [Mainsail Theme](https://docs.zerog.one/klipper/mainsail/theme), [Manuals](https://docs.zerog.one/manual/build) and more!
+On this website you’ll find all sorts of information, [ABS Printing Tips](guides/printing/printing-tips.md), [Print Settings](guides/printing/print-settings.md), [Design Guidelines](guides/design.md), [Mainsail Theme](https://docs.zerog.one/klipper/mainsail/theme), [Manuals](guides/assembly/) and more!
 
 Currently we’re working on instructions for two of our projects. Our projects are **Mercury One.1** and **Hydra**.
 
@@ -47,7 +47,7 @@ We’re a big [Discord](https://discord.gg/zerog) advocate! We love using it and
 
 The step files for Hydra and Mercury One.1 are now available.
 
-Find them in the menu: Manual → [Mercury One.1](https://docs.zerog.one/manual/build/mercury_eva/printed_files) **OR** [Hydra](https://docs.zerog.one/manual/build/hydra/printed_files) → 3. Files. There is a section called “Step files”.
+Find them in the menu: Manual → [Mercury One.1](guides/assembly/mercury-one.1/) **OR** [Hydra](guides/assembly/hydra/) → Files. There is a section called “Step files”.
 
 ## License
 
