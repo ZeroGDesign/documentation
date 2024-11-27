@@ -1,3 +1,10 @@
+---
+description: >-
+  Steps for setting up the mainsail theme for your user interface. Complete the
+  installation with the provided instructions and enjoy the improved visual
+  experience.
+---
+
 # Mainsail Theme Setup
 
 ## Connect to SSH
@@ -93,7 +100,7 @@ If a notification appears asking you to **try again**, click on it to proceed.
 
 Refresh your browser to check if the ZeroG theme is now visible.
 
-<div align="left"><img src="https://docs2.zerog.one/images/other/mainsail/theme/step11.png" alt="test"></div>
+<div align="left"><img src="https://docs2.zerog.one/images/other/mainsail/theme/step11.png" alt=""></div>
 
 ### Update Manager
 
