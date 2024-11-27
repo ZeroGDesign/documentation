@@ -42,13 +42,11 @@ Once executed, your console should display the message ‘_Theme has been instal
 
 
 
-<div align="left"></div>
-
 ### Config Files
 
 Locate the file ‘_moonraker.conf_’ and click on it.
 
-![test](https://docs2.zerog.one/images/other/mainsail/theme/step6.png)
+![](https://docs2.zerog.one/images/other/mainsail/theme/step6.png)
 
 ### Theme Update Script
 
@@ -56,7 +54,7 @@ Scroll down until you find the text _\[update\_manager]_.
 
 If you see an additional line that reads “enable\_auto\_refresh: True”, do not remove it. Simply proceed to the next line. Note that this line may not be present for all users.
 
-<div align="left"><img src="https://docs2.zerog.one/images/other/mainsail/theme/step7.png" alt="test"></div>
+<div align="left"><img src="https://docs2.zerog.one/images/other/mainsail/theme/step7.png" alt=""></div>
 
 Insert the following code
 
@@ -73,7 +71,7 @@ Copy
 
 Your configuration should now somewhat look like the following:
 
-<div align="left"><img src="https://docs2.zerog.one/images/other/mainsail/theme/step8.png" alt="test"></div>
+<div align="left"><img src="https://docs2.zerog.one/images/other/mainsail/theme/step8.png" alt=""></div>
 
 ***
 
@@ -81,7 +79,7 @@ Your configuration should now somewhat look like the following:
 
 Click on the **Save & Restart** button.
 
-<div align="left"><img src="https://docs2.zerog.one/images/other/mainsail/theme/step9.png" alt="test"></div>
+<div align="left"><img src="https://docs2.zerog.one/images/other/mainsail/theme/step9.png" alt=""></div>
 
 ***
 
@@ -89,7 +87,7 @@ Click on the **Save & Restart** button.
 
 If a notification appears asking you to **try again**, click on it to proceed.
 
-<div align="left"><img src="https://docs2.zerog.one/images/other/mainsail/theme/step10.png" alt="test"></div>
+<div align="left"><img src="https://docs2.zerog.one/images/other/mainsail/theme/step10.png" alt=""></div>
 
 ### Refresh your Browser
 
@@ -101,10 +99,10 @@ Refresh your browser to check if the ZeroG theme is now visible.
 
 On the right-hand side, you will see the **Update Manager**. You should now notice that **ZeroGTheme** has been added. This will enable you to easily obtain the latest updates as they become available for the ZeroG Mainsail Theme.
 
-![test](https://docs2.zerog.one/images/other/mainsail/theme/step12.png)
+![](https://docs2.zerog.one/images/other/mainsail/theme/step12.png)
 
 ***
 
 ## Enjoy
 
-![test](https://docs2.zerog.one/images/other/mainsail/theme/step13.png)
+![](https://docs2.zerog.one/images/other/mainsail/theme/step13.png)
