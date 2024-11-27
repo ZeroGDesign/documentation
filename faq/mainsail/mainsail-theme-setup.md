@@ -55,11 +55,11 @@ bash ~/zerog-mainsail-theme/install.sh
 {% step %}
 ### Double check
 
-If done correctly out would look somewhat like thi
+If done correctly out would look somewhat like this
 
 <img src="https://docs.zerog.one/assets/images/howto/theme/step3.png" alt="" data-size="original">
 
-{% hint style="info" %}
+{% hint style="warning" %}
 The input field still shows a command we have to run, press **ENTER** on your keyboard to run the command.
 {% endhint %}
 {% endstep %}
@@ -73,27 +73,31 @@ Once executed, your console should display the message ‘_Theme has been instal
 {% endstep %}
 {% endstepper %}
 
+## Dashboard
 
-
-
-
-### Config Files
+{% stepper %}
+{% step %}
+### Locate your Config Files
 
 Locate the file ‘_moonraker.conf_’ and click on it.
 
-![](https://docs2.zerog.one/images/other/mainsail/theme/step6.png)
+<img src="https://docs2.zerog.one/images/other/mainsail/theme/step6.png" alt="" data-size="original">
+{% endstep %}
 
-### Theme Update Script
+{% step %}
+### Adding Them Update Script
 
 Scroll down until you find the text _\[update\_manager]_.
 
-If you see an additional line that reads “enable\_auto\_refresh: True”, do not remove it. Simply proceed to the next line. Note that this line may not be present for all users.
+_If you see an additional line that reads “enable\_auto\_refresh: True”, do not remove it. Simply proceed to the next line. Note that this line may not be present for all users._
 
-<div align="left"><img src="https://docs2.zerog.one/images/other/mainsail/theme/step7.png" alt=""></div>
+<img src="https://docs2.zerog.one/images/other/mainsail/theme/step7.png" alt="" data-size="original">
+{% endstep %}
 
-Insert the following code
+{% step %}
+### Insert Code
 
-```django
+```yaml
 [update_manager client ZeroGTheme]
 type: git_repo
 path: ~/zerog-mainsail-theme
@@ -101,34 +105,46 @@ origin: https://github.com/ZeroGDesign/zerog-mainsail-theme.git
 install_script: install.sh
 is_system_service: False
 ```
+{% endstep %}
 
-Copy
+{% step %}
+### Confirm Changes
 
-Your configuration should now somewhat look like the following:
+Confirm your code looks somewhat similar to this.
 
-<div align="left"><img src="https://docs2.zerog.one/images/other/mainsail/theme/step8.png" alt=""></div>
+<img src="https://docs2.zerog.one/images/other/mainsail/theme/step8.png" alt="" data-size="original">
+{% endstep %}
+{% endstepper %}
 
-***
 
-## Saving Changes
 
-Click on the **Save & Restart** button.
+## Final Steps
 
-<div align="left"><img src="https://docs2.zerog.one/images/other/mainsail/theme/step9.png" alt=""></div>
+{% stepper %}
+{% step %}
+### Press Save & Restart
 
-***
+<img src="https://docs2.zerog.one/images/other/mainsail/theme/step9.png" alt="" data-size="original">
+{% endstep %}
 
-## Restart Moonraker
+{% step %}
+### Restart Moonraker
 
 If a notification appears asking you to **try again**, click on it to proceed.
 
-<div align="left"><img src="https://docs2.zerog.one/images/other/mainsail/theme/step10.png" alt=""></div>
+<img src="https://docs2.zerog.one/images/other/mainsail/theme/step10.png" alt="" data-size="original">
+{% endstep %}
 
+{% step %}
 ### Refresh your Browser
 
 Refresh your browser to check if the ZeroG theme is now visible.
 
-<div align="left"><img src="https://docs2.zerog.one/images/other/mainsail/theme/step11.png" alt=""></div>
+<img src="https://docs2.zerog.one/images/other/mainsail/theme/step11.png" alt="" data-size="original">
+
+###
+{% endstep %}
+{% endstepper %}
 
 ### Update Manager
 
@@ -136,8 +152,6 @@ On the right-hand side, you will see the **Update Manager**. You should now noti
 
 ![](https://docs2.zerog.one/images/other/mainsail/theme/step12.png)
 
-***
-
-## Enjoy
+### That's it, Enjoy!
 
 ![](https://docs2.zerog.one/images/other/mainsail/theme/step13.png)
