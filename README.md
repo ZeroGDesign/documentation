@@ -31,12 +31,12 @@ Currently we’re working on instructions for two of our projects. Our projects 
 
 _The documentation is still a work in progress so keep in mind it’s not complete._
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="https://app.gitbook.com/s/XgzDoYdwl0Vuu3qB4KOp/mercury-one.1" %}
+[Mercury One.1](https://app.gitbook.com/s/XgzDoYdwl0Vuu3qB4KOp/mercury-one.1)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="https://app.gitbook.com/s/XgzDoYdwl0Vuu3qB4KOp/hydra" %}
+[Hydra](https://app.gitbook.com/s/XgzDoYdwl0Vuu3qB4KOp/hydra)
 {% endcontent-ref %}
 
 ## Discord
