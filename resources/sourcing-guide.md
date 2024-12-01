@@ -86,7 +86,7 @@ _**Quick note** This page doesn't contain a '**single bill of materials'**. Inst
 
 ## Precision Dowel Pin
 
-### M5 **x** 30mm
+### M5 **x** 30mm - Dowel Pin
 
 <table data-view="cards"><thead><tr><th>Store Name</th><th>Ships To</th><th>Ships From</th><th>Note</th></tr></thead><tbody><tr><td><a href="https://s.click.aliexpress.com/e/_ATn62e">AliExpress - Nindejin</a></td><td>International</td><td>International</td><td>Select correct size</td></tr><tr><td><a href="https://collabs.shop/gux2gc">West3D</a></td><td>International</td><td>NA</td><td>Select correct size</td></tr><tr><td><a href="https://kb-3d.com/store/hardware/141-30-5mm-bearing-steel-shafts-various-lengths-1642282491009.html#/18-5mmshafts-30mm">KB3D</a></td><td>International</td><td>NA</td><td>Good tolerance</td></tr></tbody></table>
 
