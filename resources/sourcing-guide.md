@@ -152,24 +152,54 @@ _**Quick note** This page doesn't contain a '**single bill of materials'**. Inst
 
 ## Stepper Motors
 
+{% hint style="info" %}
+Stepper motors vary in power and step angles. Need some help in selecting the right motor for your project? Join our [Discord server](https://discord.gg/zerog), we're more than happy to help you out!
+{% endhint %}
+
+
+
 ### Nema 17
 
-| Store Name                                                                                                                        | Ships To      | Ships From    | Note |
-| --------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- | ---- |
-| [Fabreeko](https://www.fabreeko.com/products/zero-g-ab-motors-by-honeybadger?_pos=2&_sid=b7db3078d&_ss=r\&variant=43510563176703) | International | US            | N/A  |
-| [3DO](https://3do.dk/en/motors/1170-nema17-42sth48-2504ac.html)                                                                   | EU            | DK / EU       | N/A  |
-| [West3D](https://collabs.shop/p8eh44)                                                                                             | International | US            | N/A  |
-| [AliExpress - Stepper Online](https://s.click.aliexpress.com/e/_Aq98MK)                                                           | International | International | N/A  |
+| Store Name                                                                                                                         | Ships To      | Ships From    | Note |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- | ---- |
+| [Fabreeko](https://www.fabreeko.com/products/zero-g-ab-motors-by-honeybadger?_pos=2&_sid=b7db3078d&_ss=r\&variant=43510563176703)  | International | US            | N/A  |
+| [3DO](https://3do.dk/en/motors/1170-nema17-42sth48-2504ac.html)                                                                    | EU            | DK / EU       | N/A  |
+| [West3D](https://collabs.shop/p8eh44)                                                                                              | International | US            | N/A  |
+| [KB3D](https://kb-3d.com/store/stepper-motors-servos/371-ldo-stepper-motor-nema-17-42sth48-2504ac-speedy-power-1651971790651.html) | International | US            | N/A  |
+| [AliExpress - Stepper Online](https://s.click.aliexpress.com/e/_Aq98MK)                                                            | International | International | N/A  |
 
 ## Controller Boards
+
+{% hint style="info" %}
+Carefully pick the board for your project, there is a lot of variation between them. Doing research is highly recommended.
+{% endhint %}
 
 ### Spider V3.0
 
 | Store Name                                                                                                                   | Ships To      | Ships From    | Note |
 | ---------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- | ---- |
 | [Fabreeko](https://www.fabreeko.com/products/fystec-spider-voron-design?_pos=1&_sid=3ff0ff26b&_ss=r\&variant=44184259395839) | International | US            | N/A  |
-| AliExpress - Fysetc                                                                                                          | EU            | DK / EU       | N/A  |
-| Placeholder                                                                                                                  | International | International | N/A  |
+| [AliExpress - Fysetc](https://s.click.aliexpress.com/e/_DBTmPNP)                                                             | International | International | N/A  |
+
+### LDO Leviathan
+
+| Store Name                                                                                                                                      | Ships To      | Ships From | Note |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ---------- | ---- |
+| [3DO](https://3do.dk/en/boards/1527-ldo-voron-leviathan.html)                                                                                   | EU            | DK / EU    | N/A  |
+| [Fabreeko](https://www.fabreeko.com/products/leviathan-v1-2-controller-board-by-ldo-voron)                                                      | International | US         | N/A  |
+| [KB3D](https://kb-3d.com/store/controllers-displays-drivers/1027-ldo-leviathan-3d-printer-controller-main-board-for-klipper-1700224010852.html) | International | US         | N/A  |
+| [West3D](https://collabs.shop/xzuh4l)                                                                                                           | International | US         | N/A  |
+
+### BigTreeTech Kraken
+
+| Store Name                                                                                                                                        | Ships To      | Ships From | Note |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ---------- | ---- |
+| [3DO](https://3do.dk/en/boards/2208-bigtreetech-kraken-v10.html)                                                                                  | EU            | DK / EU    | N/A  |
+| [Fabreeko](https://www.fabreeko.com/products/btt-kraken-high-performance-high-current-8-driver-board)                                             | International | US         | N/A  |
+| [KB3D](https://kb-3d.com/store/controllers-displays-drivers/1094-bigtreetech-kraken-main-controller-board-high-current-8-axis-1709418555988.html) | International | US         | N/A  |
+| [West3D](https://collabs.shop/endcgh)                                                                                                             | International | US         | N/A  |
+
+
 
 [^1]: This lightweight gantry is 370mm, make sure you're going after the correct size for your machine.
 
