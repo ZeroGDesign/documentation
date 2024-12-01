@@ -22,3 +22,5 @@
 
 * [Mainsail](faq/mainsail/README.md)
   * [Mainsail Theme Setup](faq/mainsail/mainsail-theme-setup.md)
+* [Frame](faq/frame/README.md)
+  * [Blind joints, how do they work?](faq/frame/blind-joints-how-do-they-work.md)
