@@ -25,7 +25,7 @@ The Zero G documentation will give you a start building your project, learning a
 
 ## Getting Started
 
-On this website you’ll find all sorts of information, [ABS Printing Tips](guides/printing/printing-tips.md), [Print Settings](guides/printing/print-settings.md), [Design Guidelines](guides/design.md), [Mainsail Theme](https://docs.zerog.one/klipper/mainsail/theme), [Manuals](broken-reference) and more!
+On this website you’ll find all sorts of information, [ABS Printing Tips](guides/printing/printing-tips.md), [Print Settings](guides/printing/print-settings.md), [Design Guidelines](guides/design.md), [Mainsail Theme](faq/mainsail/mainsail-theme-setup.md), [Manuals](https://app.gitbook.com/o/3NLq4uuZBWfCNDv3xY44/s/XgzDoYdwl0Vuu3qB4KOp/) and more!
 
 Currently we’re working on instructions for two of our projects. Our projects are **Mercury One.1** and **Hydra**.
 
