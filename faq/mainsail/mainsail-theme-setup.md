@@ -3,6 +3,7 @@ description: >-
   Steps for setting up the mainsail theme for your user interface. Complete the
   installation with the provided instructions and enjoy the improved visual
   experience.
+icon: table-layout
 ---
 
 # Mainsail Theme Setup

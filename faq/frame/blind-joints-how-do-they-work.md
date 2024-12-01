@@ -1,5 +1,6 @@
 ---
 description: Learn how to assemble your frame using Blind Joints
+icon: angle-90
 ---
 
 # Blind joints, how do they work?
