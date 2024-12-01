@@ -209,7 +209,14 @@ Carefully pick the board for your project, there is a lot of variation between t
 | [KB3D](https://kb-3d.com/store/controllers-displays-drivers/1094-bigtreetech-kraken-main-controller-board-high-current-8-axis-1709418555988.html) | International | US         | N/A  |
 | [West3D](https://collabs.shop/endcgh)                                                                                                             | International | US         | N/A  |
 
+### BigTreeTech OctoPus Pro
 
+| Store Name                                                                                                                                 | Ships To      | Ships From | Note |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ------------- | ---------- | ---- |
+| [3DO](https://3do.dk/en/boards/357-bigtreetech-octopus-pro-v10-f446.html)                                                                  | EU            | DK / EU    | N/A  |
+| [Fabreeko](https://www.fabreeko.com/products/btt-octopus-pro-8-driver-mainboard-pre-order)                                                 | International | US         | N/A  |
+| [KB3D](https://kb-3d.com/store/controllers-displays-drivers/784-bigtreetech-octopus-pro-controller-main-board-v10-f446-1674341175885.html) | International | US         | N/A  |
+| [West3D](https://collabs.shop/int0y8)                                                                                                      | International | US         | N/A  |
 
 [^1]: This lightweight gantry is 370mm, make sure you're going after the correct size for your machine.
 
