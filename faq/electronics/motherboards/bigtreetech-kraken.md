@@ -53,5 +53,5 @@ description: Information on the BigTreeTech (BTT) Kraken can be found on this pa
 
 ## Stores
 
-We've added some of the stores to the Sourcing Guide [here](bigtreetech-kraken.md).
+We've added some of the stores to the Sourcing Guide [here](../../../resources/sourcing-guide.md#bigtreetech-kraken).
 

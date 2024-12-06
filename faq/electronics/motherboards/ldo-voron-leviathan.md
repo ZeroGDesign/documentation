@@ -50,5 +50,5 @@ description: Information on the LDO Voron Leviathan can be found on this page.
 
 ## Stores
 
-We've added some of the stores to the Sourcing Guide [here](ldo-voron-leviathan.md).
+We've added some of the stores to the Sourcing Guide [here](../../../resources/sourcing-guide.md#ldo-leviathan).
 

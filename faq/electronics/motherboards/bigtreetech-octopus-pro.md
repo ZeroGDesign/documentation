@@ -50,5 +50,5 @@ description: Information on the BigTreeTech ( BTT) Octopus Pro can be found on t
 
 ## Stores
 
-We've added some of the stores to the Sourcing Guide [here](bigtreetech-octopus-pro.md).
+We've added some of the stores to the Sourcing Guide [here](../../../resources/sourcing-guide.md#bigtreetech-octopus-pro).
 
