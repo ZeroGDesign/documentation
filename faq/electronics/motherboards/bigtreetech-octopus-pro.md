@@ -12,7 +12,7 @@ description: Information on the BigTreeTech ( BTT) Octopus Pro can be found on t
 
 ## Pros
 
-* Best community support
+* Great community support
 * Good docs
 * Dimensions: 160x100mm
 * Common STM32F446 MCU option

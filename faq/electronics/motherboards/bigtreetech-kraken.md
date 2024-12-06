@@ -8,7 +8,7 @@ description: Information on the BigTreeTech (BTT) Kraken can be found on this pa
 
 {% @github-files/github-code-block url="https://github.com/bigtreetech/BIGTREETECH-Kraken" %}
 
-<figure><img src="../../../.gitbook/assets/ldo_leviathan.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/btt_kraken.png" alt=""><figcaption></figcaption></figure>
 
 ## Pros
 

@@ -14,9 +14,7 @@ description: Information on the LDO Voron Leviathan can be found on this page.
 
 <figure><img src="../../../.gitbook/assets/ldo_leviathan.png" alt=""><figcaption></figcaption></figure>
 
-\
-Pros
-----
+## Pros
 
 * Fully open source
 * TMC5160/TMC2209
