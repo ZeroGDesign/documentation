@@ -11,6 +11,7 @@
   * [Mercury One.1](mercury-one.1/build-instruction/mercury-one.1.md)
   * [Phase 1](mercury-one.1/build-instruction/phase-1/README.md)
     * [Printing](mercury-one.1/build-instruction/phase-1/printing.md)
+    * [Concepts](mercury-one.1/build-instruction/phase-1/concepts.md)
 
 ## Hydra
 
