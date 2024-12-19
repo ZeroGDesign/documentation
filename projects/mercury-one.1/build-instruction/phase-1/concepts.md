@@ -8,10 +8,11 @@ description: >-
 
 ## <mark style="color:red;">Printed part codes</mark>
 
-Our parts have printed codes to aid assembly. A part code identifies:
+Our parts have printed codes to aid assembly.
 
-1. If the part belongs on the **left (‘L’)** or **right (‘R’)** side of the printer; and
-2. The **version** of the part.
+1. A part code identifies
+   1. If the part belongs on the **left (‘L’)** or **right (‘R’)** side of the printer.
+   2. The **version** of the part.
 
 <figure><img src="../../../.gitbook/assets/merc_naming_concept_example.png" alt=""><figcaption></figcaption></figure>
 
