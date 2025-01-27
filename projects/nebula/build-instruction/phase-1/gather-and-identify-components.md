@@ -24,6 +24,8 @@ Below is the series of extrusions for the kit. Some are long, some are short, an
 
 <figure><img src="../../../.gitbook/assets/255 extrusions.png" alt=""><figcaption></figcaption></figure>
 
+## Hardware
+
 The hardware displayed below is common to both the 255 and 370 sizes. Only the Quantities will change.
 
 \*Note\* The quantities on this table were purposefully left out. Please reference the correct page for your build size for quantities. This table is to familiarize yourself with the necessary hardware.&#x20;
