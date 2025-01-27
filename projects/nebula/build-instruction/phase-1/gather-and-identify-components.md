@@ -12,21 +12,25 @@ layout:
     visible: true
 ---
 
-# 1. Assembling left arm
+# Gather and Identify Components
 
-### Bed supporting arm <a href="#bed-supporting-arm" id="bed-supporting-arm"></a>
+### Lets start with a crucial step: gathering and identifying components and hardware.
 
-#### Left arm <a href="#left-arm" id="left-arm"></a>
+The Frame - Nebula - is one of the most critical components of your printer. It's important to take your time when assembling to ensure your build goes smooth. If you jump ahead you may miss some very important notes, or worse, end up with an out-of-square frame.&#x20;
 
-[![Left arm](https://docs.zerog.one/assets/images/instructions/hydra/left_arm/left_arm_complete.png)](https://docs.zerog.one/manual/build/hydra/left_arm#lightbox__item_1)
 
-![Left arm full overview](https://docs.zerog.one/assets/images/instructions/hydra/left_arm/left_arm_complete.png)
+
+Below is the series of extrusions for the kit. Some are long, some are short, and some look similar but have different features - it is important to note these differences.
+
+<figure><img src="../../../.gitbook/assets/255 extrusions.png" alt=""><figcaption></figcaption></figure>
+
+#### &#x20;<a href="#left-arm" id="left-arm"></a>
 
 The hardware displayed below is for the left arm assembly.
 
 **Hardware**
 
-<table><thead><tr><th>Type</th><th>Amount</th><th>Image</th><th data-type="files"></th></tr></thead><tbody><tr><td>m3x8mm</td><td>9</td><td><img src="broken-reference" alt="" data-size="original"></td><td></td></tr><tr><td>m3x10mm</td><td>1</td><td><img src="broken-reference" alt=""></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td>Heatset insert</td><td>10</td><td><img src="broken-reference" alt=""></td><td></td></tr><tr><td>10mm Kossel ball</td><td>1</td><td></td><td></td></tr><tr><td>12x5x4 countersunk </td><td>1</td><td><img src="https://docs.zerog.one/assets/images/instructions/12x5x4mm_cs_magnet.png" alt="12x5x4 countersunk magnet" data-size="original"></td><td></td></tr><tr><td>MGN9C Rail</td><td>1</td><td><img src="https://docs.zerog.one/assets/images/instructions/mgn9c_100mm.png" alt="MGN9C rail"></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
+<table><thead><tr><th width="544">Type</th><th width="200">Image</th></tr></thead><tbody><tr><td>5X7X8 Bushing</td><td></td></tr><tr><td>5x5 Pin</td><td></td></tr><tr><td>6x3 Magnet</td><td></td></tr><tr><td>10x3 Magnet</td><td></td></tr><tr><td>M3 Roll In T-nut</td><td></td></tr><tr><td>M5 Roll In T-Nut</td><td></td></tr><tr><td>M3 X D5.0 X L4.0 - Heat-set</td><td></td></tr><tr><td>M3x8 FHCS</td><td></td></tr><tr><td>M3x8 BHCS</td><td></td></tr><tr><td>M3x8 SHCS</td><td></td></tr><tr><td>M3x12 SHCS</td><td></td></tr><tr><td>M3x14 SHSC</td><td></td></tr><tr><td>M5x6 BHSC</td><td></td></tr><tr><td>M5x10 BHSC</td><td></td></tr><tr><td>M5x10 FHCS</td><td></td></tr><tr><td>M5x12 SHCS</td><td></td></tr><tr><td>M5x18 SHCS</td><td></td></tr><tr><td>M5 Hex Nut</td><td></td></tr><tr><td>3x5mm Foam Tape</td><td></td></tr><tr><td>38x19mm Rubber Foot</td><td></td></tr></tbody></table>
 
 **Printed part**
 

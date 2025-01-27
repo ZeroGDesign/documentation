@@ -29,7 +29,7 @@
 * [Files](nebula/files.md)
 * [Build Instruction](nebula/build-instruction/README.md)
   * [Phase 1](nebula/build-instruction/phase-1/README.md)
-    * [1. Assembling left arm](nebula/build-instruction/phase-1/1.-assembling-left-arm.md)
+    * [Gather and Identify Components](nebula/build-instruction/phase-1/gather-and-identify-components.md)
 
 ## External Links
 
