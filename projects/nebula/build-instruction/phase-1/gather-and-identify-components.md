@@ -38,6 +38,6 @@ The quantities on this table were purposefully left out. Please reference the co
 
 ## **Printed parts**
 
-We have very specific [settings](https://docs.zerog.one/standard/print/settings) you should print the parts with, they’ve been designed around these settings. The printed parts are also designed for ABS/ASA shrinkage.&#x20;
+We have very specific [settings](https://app.gitbook.com/s/c7rngz4fr0ULXRXV6Dnh/guides/printing/print-settings) you should print the parts with, they’ve been designed around these settings. The printed parts are also designed for ABS/ASA shrinkage.&#x20;
 
 \*Note\* Other filaments may have been used in builds and may work, but the absolute recommendation is ABS/ASA.
