@@ -30,6 +30,8 @@
 * [Build Instruction](nebula/build-instruction/README.md)
   * [Phase 1](nebula/build-instruction/phase-1/README.md)
     * [Gather and Identify Components](nebula/build-instruction/phase-1/gather-and-identify-components.md)
+  * [Phase 2](nebula/build-instruction/phase-2/README.md)
+    * [Building the vertical frame](nebula/build-instruction/phase-2/building-the-vertical-frame.md)
 
 ## External Links
 
