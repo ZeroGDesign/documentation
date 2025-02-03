@@ -50,20 +50,12 @@ If you're experiencing difficulties with screws moving when sliding the extrusio
 
 <img src="../../../.gitbook/assets/file.excalidraw (3).svg" alt="" class="gitbook-drawing">
 
-
-
-
-
-
-
 Now add a M5 T-Nut and M5x3 screw to A extrusion, this should be inserted on the side that has the G extrusion attached.
 
 {% hint style="info" %}
 These Screw/T-Nut set will later secure the Y extrusion in the build.
 {% endhint %}
 
-\
-\
 Now repeat these steps another 3 times until you have 4 vertical frame assemblies.
 
 <img src="../../../.gitbook/assets/file.excalidraw (4).svg" alt="" class="gitbook-drawing">
