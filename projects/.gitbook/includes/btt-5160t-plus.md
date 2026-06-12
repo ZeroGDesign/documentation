@@ -2,7 +2,7 @@
 title: BTT 5160T Plus
 ---
 
-## <mark style="color:red;">BTT 5160T Plus</mark>
+## <mark style="color:red;">BTT 5160T Plus test</mark>
 
 10.6A RMS | 60V | SPI
 
