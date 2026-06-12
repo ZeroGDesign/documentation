@@ -28,8 +28,6 @@ This board uses integrated drivers.
 
 ***
 
-{% include "../.gitbook/includes/btt-kraken.md" %}
-
 ***
 
 ### <mark style="color:red;">BTT Octopus Pro 1.1</mark>
