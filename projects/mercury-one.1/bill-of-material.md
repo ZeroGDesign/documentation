@@ -10,9 +10,9 @@ In the `Stores` column of the tables, you'll find stores with approved and teste
 The Bill of Materials for the Mercury One.1 is not yet complete, but it does include the hardware for the EVA Toolhead. For further information, please refer to the Changelog [here](https://docs.zerog.one/changelog/mercury#th-december-2022).
 {% endhint %}
 
-## Self sourcing <a href="#self-sourcing" id="self-sourcing"></a>
+## <mark style="color:red;">Self sourcing</mark> <a href="#self-sourcing" id="self-sourcing"></a>
 
-### Bolts <a href="#bolts" id="bolts"></a>
+### <mark style="color:red;">Bolts</mark> <a href="#bolts" id="bolts"></a>
 
 _Note: The amount of bolts includes spares._
 
@@ -31,14 +31,14 @@ _Note: The amount of bolts includes spares._
 | M5x20 | ISO 4762 / DIN 912 | 4                                             | [Click here](https://app.gitbook.com/s/c7rngz4fr0ULXRXV6Dnh/resources/sourcing-guide#m5-x-20mm-shcs)    |
 | M5x50 | ISO 4762 / DIN 912 | 6                                             | [Click here](https://app.gitbook.com/s/c7rngz4fr0ULXRXV6Dnh/resources/sourcing-guide#m5-x-50mm-shcs)    |
 
-### T-Nuts <a href="#t-nuts" id="t-nuts"></a>
+### <mark style="color:red;">T-Nuts</mark> <a href="#t-nuts" id="t-nuts"></a>
 
 | Size | Type                  | Amount | Stores                                                                                            |
 | ---- | --------------------- | ------ | ------------------------------------------------------------------------------------------------- |
 | M3   | Roll in spring loaded | 35     | [Click here](https://app.gitbook.com/s/c7rngz4fr0ULXRXV6Dnh/resources/sourcing-guide#m3-6mm-slot) |
 | M5   | Roll in spring loaded | 20     | [Click here](https://app.gitbook.com/s/c7rngz4fr0ULXRXV6Dnh/resources/sourcing-guide#m5-6mm-slot) |
 
-### Extrusions <a href="#extrusions" id="extrusions"></a>
+### <mark style="color:red;">Extrusions</mark> <a href="#extrusions" id="extrusions"></a>
 
 {% hint style="info" %}
 _Note: Ender 5 (Pro) and Ender 5 Plus have different sizes for parts._
@@ -60,7 +60,7 @@ The Lightweight Gantry is not mandatory but an optional upgrade!
 {% endtab %}
 {% endtabs %}
 
-### Linear rails <a href="#linear-rails" id="linear-rails"></a>
+### <mark style="color:red;">Linear rails</mark> <a href="#linear-rails" id="linear-rails"></a>
 
 {% hint style="info" %}
 _Note: Ender 5 (Pro) and Ender 5 Plus have different sizes for parts._
@@ -68,7 +68,7 @@ _Note: Ender 5 (Pro) and Ender 5 Plus have different sizes for parts._
 
 <table data-card-size="large" data-view="cards"><thead><tr><th>Printer</th><th>Size</th><th>Type</th><th>Amount</th><th>Stores</th></tr></thead><tbody><tr><td>Ender 5 (Pro)</td><td>330mm</td><td>MGN12H</td><td>3</td><td><a href="https://app.gitbook.com/s/c7rngz4fr0ULXRXV6Dnh/resources/sourcing-guide#mgn12h-330mm">Click here</a>   </td></tr><tr><td>Ender 5 Plus</td><td>450mm</td><td>MGN12H</td><td>3</td><td><a href="https://app.gitbook.com/s/c7rngz4fr0ULXRXV6Dnh/resources/sourcing-guide#mgn12h-450mm">Click here</a></td></tr></tbody></table>
 
-### Electronics <a href="#electronics" id="electronics"></a>
+### <mark style="color:red;">Electronics</mark> <a href="#electronics" id="electronics"></a>
 
 _Note: You can self source the following parts. The parts below are recommended by us._
 
@@ -82,7 +82,7 @@ _Note: You can self source the following parts. The parts below are recommended 
 | ---------------- | ---------- | ------ | ------------- |
 | Brushless DC fan | 40x40x10mm | 1      | Click here    |
 
-### Misc <a href="#misc" id="misc"></a>
+### <mark style="color:red;">Misc</mark> <a href="#misc" id="misc"></a>
 
 **Motion system**
 
@@ -94,7 +94,7 @@ _Note: You can self source the following parts. The parts below are recommended 
 | 6mm                 | 2GT 20T Pulley      | 2           | Click here                                                                                                   |
 | Check note in store | GATES-LL-2GT        | READ NOTE → | Click here                                                                                                   |
 
-### **Other**
+### <mark style="color:red;">**Other**</mark>
 
 | Size             | Type                                        | Amount | Stores        |
 | ---------------- | ------------------------------------------- | ------ | ------------- |

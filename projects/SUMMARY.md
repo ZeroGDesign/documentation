@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Build Instructions](README.md)
-
 ## Mercury One.1
 
-* [Introduction](mercury-one.1/introduction.md)
+* [Introduction](README.md)
 * [Bill of material](mercury-one.1/bill-of-material.md)
 * [Files](mercury-one.1/files.md)
 * [Build Instruction](mercury-one.1/build-instruction/README.md)
@@ -27,12 +25,18 @@
 * [Introduction](nebula/introduction.md)
 * [Bill of Material](nebula/bill-of-material.md)
 * [Files](nebula/files.md)
-* [Build Instruction](nebula/build-instruction/README.md)
-  * [Phase 1](nebula/build-instruction/phase-1/README.md)
-    * [Gather and Identify Components](nebula/build-instruction/phase-1/gather-and-identify-components.md)
-  * [Phase 2](nebula/build-instruction/phase-2/README.md)
-    * [Building the vertical frame](nebula/build-instruction/phase-2/building-the-vertical-frame.md)
-    * [Building the side frame](nebula/build-instruction/phase-2/building-the-side-frame.md)
+* [Build Instructions](nebula/build-instructions/README.md)
+  * [Phase 1](nebula/build-instructions/phase-1/README.md)
+    * [Gather and Identify Components](nebula/build-instructions/phase-1/gather-and-identify-components.md)
+  * [Phase 2](nebula/build-instructions/phase-2/README.md)
+    * [Building the vertical frame](nebula/build-instructions/phase-2/building-the-vertical-frame.md)
+    * [Building the side frame](nebula/build-instructions/phase-2/building-the-side-frame.md)
+
+## Electronics
+
+* [Mainboards](electronics/mainboards.md)
+* [TMC Drivers](electronics/tmc-drivers.md)
+* [Stepper Motors](electronics/stepper-motors.md)
 
 ## External Links
 
