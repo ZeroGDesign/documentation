@@ -2,6 +2,7 @@
 cover: .gitbook/assets/Header.png
 coverY: 100.70181818181818
 layout:
+  width: default
   cover:
     visible: true
     size: hero
@@ -15,11 +16,17 @@ layout:
     visible: true
   pagination:
     visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Welcome to ZeroG
 
-## Welcome
+## Welcome to ZeroG
 
 The Zero G documentation will give you a start building your project, learning all about 3D printing and more!
 
@@ -27,16 +34,18 @@ The Zero G documentation will give you a start building your project, learning a
 
 On this website you’ll find all sorts of information, [ABS Printing Tips](guides/printing/printing-tips.md), [Print Settings](guides/printing/print-settings.md), [Design Guidelines](guides/design.md), [Mainsail Theme](faq/mainsail/mainsail-theme-setup.md), [Manuals](https://app.gitbook.com/o/3NLq4uuZBWfCNDv3xY44/s/XgzDoYdwl0Vuu3qB4KOp/) and more!
 
-Currently we’re working on instructions for two of our projects. Our projects are **Mercury One.1** and **Hydra**.
+Currently we’re working on instructions for three of our projects. Our projects are **Mercury One.1, Hydra** and **Nebula.**
 
-_The documentation is still a work in progress so keep in mind it’s not complete._
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Mercury One.1</td><td><a href="https://app.gitbook.com/s/XgzDoYdwl0Vuu3qB4KOp/mercury-one.1/introduction">Introduction</a></td><td>Merc stuff</td><td><a href=".gitbook/assets/Header.png">Header.png</a></td></tr><tr><td>Hydra</td><td><a href="https://app.gitbook.com/s/XgzDoYdwl0Vuu3qB4KOp/hydra/introduction">Introduction</a></td><td>Hydra stuff</td><td><a href=".gitbook/assets/hydra_bare.png">hydra_bare.png</a></td></tr></tbody></table>
 
-{% content-ref url="https://app.gitbook.com/s/XgzDoYdwl0Vuu3qB4KOp/mercury-one.1" %}
-[Mercury One.1](https://app.gitbook.com/s/XgzDoYdwl0Vuu3qB4KOp/mercury-one.1)
-{% endcontent-ref %}
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Nebula</td><td><a href="https://app.gitbook.com/s/XgzDoYdwl0Vuu3qB4KOp/nebula/introduction">Introduction</a></td><td>Nebula stuff</td><td><a href=".gitbook/assets/full_frame_render.png">full_frame_render.png</a></td></tr><tr><td>Electronics</td><td></td><td>Electronics stuff</td><td><a href=".gitbook/assets/btt_octopus_pro.png">btt_octopus_pro.png</a></td></tr></tbody></table>
 
 {% content-ref url="https://app.gitbook.com/s/XgzDoYdwl0Vuu3qB4KOp/hydra" %}
 [Hydra](https://app.gitbook.com/s/XgzDoYdwl0Vuu3qB4KOp/hydra)
+{% endcontent-ref %}
+
+{% content-ref url="https://app.gitbook.com/s/XgzDoYdwl0Vuu3qB4KOp/nebula" %}
+[Nebula](https://app.gitbook.com/s/XgzDoYdwl0Vuu3qB4KOp/nebula)
 {% endcontent-ref %}
 
 ## Discord
@@ -47,7 +56,7 @@ We’re a big [Discord](https://discord.gg/zerog) advocate! We love using it and
 
 The step files for Hydra and Mercury One.1 are now available.
 
-Find them in the menu: Manual → [Mercury One.1](broken-reference) **OR** [Hydra](broken-reference) → Files. There is a section called “Step files”.
+Find them in the menu: Manual → [Mercury One.1](/broken/pages/sWNkR9VQqMAFBfUZpTvi) **OR** [Hydra](/broken/pages/bQPYDiHZxeeusvubw7BX) → Files. There is a section called “Step files”.
 
 ## License
 

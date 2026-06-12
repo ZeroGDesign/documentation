@@ -4,11 +4,12 @@
 
 ZeroG printers are designed to be printed using ABS or ASA. This means we’ve included tolerances for material shrinkage in our models.
 
-It’s recommended to print your ABS or ASA parts inside of an enclosure, this will greatly increase layer strength.
+It’s recommended to print your ABS or ASA parts inside of an enclosure, this will greatly increase layer strength, and helps combat warping.
 
-{% hint style="info" %}
-We find that parts printed in ABS+ are **weaker in layer adhesion** compared to non ABS+ filaments. Although easier to print, they’re **easier to break**.\
-We’re aware that not every blend of ABS+ is equal, however it’s what we found with the ABS+ we tested.
+{% hint style="warning" %}
+The ABS+ we tested showed **weaker layer adhesion** than standard ABS or ASA. Although easier to print, it was also **easier to break**.
+
+Not every ABS+ blend is the same, but many variants include **other** additives that can reduce structural strength and make parts unsuitable for load-bearing use.
 {% endhint %}
 
 ## <mark style="color:red;">Calibration print</mark> <a href="#calibration-print" id="calibration-print"></a>
@@ -17,22 +18,20 @@ Check it out now! You can find it [here](https://www.printables.com/model/369447
 
 ## <mark style="color:red;">Analyzing a break</mark> <a href="#analyzing-a-break" id="analyzing-a-break"></a>
 
-Great! Let's use this moment to check your layer adhesion. We mostly use our Steppers mounts or X Joints to check the adhesion. \
+Great! Let's use this moment to check your layer adhesion. We mostly use our Steppers mounts or X Joints to check the adhesion.\
 Below you’ll find a picture of a collection of breaks, on how it **should** look.
-
-&#x20;
 
 <figure><img src="https://docs2.zerog.one/images/universal_tips_advise/examples/break_samples.png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:red;">**Example 1 -**</mark> <mark style="color:red;"></mark><mark style="color:red;">X Joint</mark>
+### <mark style="color:red;">**Example 1 -**</mark> <mark style="color:red;">X Joint</mark>
 
 Shows a break going across multiple layers. A break on multiple layers indicates good layer adhesion.
 
-### <mark style="color:red;">**Example 2**</mark> <mark style="color:red;"></mark><mark style="color:red;">- Stepper mount break</mark>
+### <mark style="color:red;">**Example 2**</mark> <mark style="color:red;">- Stepper mount break</mark>
 
 White stress marks showing on the break but nothing on multiple layers. White stress mark on plastic indicates force was needed to seperate the layers.
 
-### <mark style="color:red;">**Example 3**</mark> <mark style="color:red;"></mark><mark style="color:red;">- x joint</mark>
+### <mark style="color:red;">**Example 3**</mark> <mark style="color:red;">- x joint</mark>
 
 The part has been printed with a .6 nozzle showing a gap between the outer perimeter and the inner perimeters. It’s still a strong part, the break goes across multiple layers.
 
@@ -53,4 +52,4 @@ We've got a few materials that we do recommend, we've also listed some alternati
 
 ### <mark style="color:red;">Filament colors that we DO NOT recommend</mark> <a href="#filament-colors-that-we-do-not-recommend" id="filament-colors-that-we-do-not-recommend"></a>
 
-1. **White** - You can, but we don’t recommend it. The pigment shows a ton of flaws and causes weak layer adhesion.
+**White** - You can, but we don’t recommend it. The pigment shows a ton of flaws and causes weak layer adhesion.**White** filament is not recommended. The titanium dioxide used for the white pigment weakens layer adhesion, causing print layer separation.
