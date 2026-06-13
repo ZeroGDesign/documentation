@@ -13,6 +13,12 @@
 
 * [Sourcing Guide](resources/sourcing-guide.md)
 
+## ELECTRONICS
+
+* [Motherboards](electronics/motherboards.md)
+* [TMC Drivers](electronics/tmc-drivers.md)
+* [Stepper Motors](electronics/stepper-motors.md)
+
 ## External Links
 
 * [Discord](https://discord.gg/zerog)
