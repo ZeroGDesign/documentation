@@ -32,6 +32,17 @@
     * [Building the vertical frame](nebula/build-instructions/phase-2/building-the-vertical-frame.md)
     * [Building the side frame](nebula/build-instructions/phase-2/building-the-side-frame.md)
 
+## ELECTRONICS-BAY
+
+* [Introduction](electronics-bay/introduction.md)
+* [Bill of Materials](electronics-bay/bill-of-materials.md)
+* [Files](electronics-bay/files.md)
+* [Build Instructions](electronics-bay/build-instructions/README.md)
+  * [Phase 1](electronics-bay/build-instructions/phase-1.md)
+  * [Phase 2](electronics-bay/build-instructions/phase-2.md)
+  * [Phase 3](electronics-bay/build-instructions/phase-3.md)
+  * [Phase 4](electronics-bay/build-instructions/phase-4.md)
+
 ## External Links
 
 * [Discord](https://discord.gg/zerog)

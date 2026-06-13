@@ -89,7 +89,7 @@ _Note: You can self source the following parts. The parts below are recommended 
 | Size                | Type                | Amount      | Stores                                                                                                       |
 | ------------------- | ------------------- | ----------- | ------------------------------------------------------------------------------------------------------------ |
 | M5X30mm             | Precision dowel pin | 10          | [Click here](https://app.gitbook.com/s/c7rngz4fr0ULXRXV6Dnh/resources/sourcing-guide#m5-x-30mm-dowel-pin)    |
-| 5\*13\*4 Mm         | F695-2RS            | 20          | Click here                                                                                                   |
+| 5\*13\*4 mm         | F695-2RS            | 20          | Click here                                                                                                   |
 | 6mm                 | 2GT 20T Idler       | 2           | Click here                                                                                                   |
 | 6mm                 | 2GT 20T Pulley      | 2           | Click here                                                                                                   |
 | Check note in store | GATES-LL-2GT        | READ NOTE → | Click here                                                                                                   |
