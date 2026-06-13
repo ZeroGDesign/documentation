@@ -32,12 +32,6 @@
     * [Building the vertical frame](nebula/build-instructions/phase-2/building-the-vertical-frame.md)
     * [Building the side frame](nebula/build-instructions/phase-2/building-the-side-frame.md)
 
-## Electronics
-
-* [Mainboards](electronics/mainboards.md)
-* [TMC Drivers](electronics/tmc-drivers.md)
-* [Stepper Motors](electronics/stepper-motors.md)
-
 ## External Links
 
 * [Discord](https://discord.gg/zerog)
