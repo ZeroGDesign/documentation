@@ -28,6 +28,8 @@ layout:
 
 ## <mark style="color:red;">NEBULA</mark> <a href="#mercury-one1" id="mercury-one1"></a>
 
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th>Difficulty</th><th>Language</th></tr></thead><tbody><tr><td>Moderate to experienced</td><td>English</td></tr></tbody></table>
+
 ## <mark style="color:red;">What's this project about?</mark>
 
 Nebula is the name of our custom frame/enclosure, some might know this is the 'beta enclosure'. It allows you to re-use many of your part on your current Mercury One.1/Hydra build and port them over a full custom frame giving you the ability to [print enclosed](#user-content-fn-1)[^1].

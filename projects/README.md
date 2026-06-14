@@ -1,6 +1,7 @@
 ---
 icon: rocket-launch
 layout:
+  width: default
   title:
     visible: true
   description:
@@ -11,11 +12,19 @@ layout:
     visible: true
   pagination:
     visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Introduction
 
 ## <mark style="color:red;">MERCURY ONE.1</mark> <a href="#mercury-one1" id="mercury-one1"></a>
+
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th>Difficulty</th><th>Language</th></tr></thead><tbody><tr><td>Moderate to experienced</td><td>English</td></tr></tbody></table>
 
 ## <mark style="color:red;">What's this project about?</mark>
 
