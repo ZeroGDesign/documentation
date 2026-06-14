@@ -65,6 +65,14 @@ Here is an example of the printed spacer you need
 
 </details>
 
+***
+
+## <mark style="color:red;">Tapped or T-Nut Tensioner plate?</mark> <a href="#recommended-print-settings" id="recommended-print-settings"></a>
+
+If you see this, I forgot to do it lol
+
+
+
 ## <mark style="color:red;">Recommended print settings</mark> <a href="#recommended-print-settings" id="recommended-print-settings"></a>
 
 * First layer height: 0.25mm (This is required. Our parts have been designed for this.)
