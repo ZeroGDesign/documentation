@@ -19,7 +19,7 @@ File names starting with 'a' can be printed in an accent color.
 <table><thead><tr><th width="100">Image</th><th width="300" valign="middle">File Name</th><th width="99.5">Qty.</th><th width="98.5">Plastic</th><th width="299">Notes</th></tr></thead><tbody><tr><td></td><td valign="middle"><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/XY_Joints/XJoint_left_bottom.stl">XJoint_Bottom_Left.stl</a></td><td>1x</td><td>ABS/ASA</td><td></td></tr><tr><td></td><td valign="middle"><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/XY_Joints/XJoint_right_bottom.stl">XJoint_Bottom_Right.stl</a></td><td>1x</td><td>ABS/ASA</td><td></td></tr><tr><td></td><td valign="middle"><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/XY_Joints/XJoint_left_top.stl">XJoint_Top_Left.stl</a></td><td>1x</td><td>ABS/ASA</td><td></td></tr><tr><td></td><td valign="middle"><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/XY_Joints/XJoint_right_top.stl">XJoint_Top_Right.stl</a></td><td>1x</td><td>ABS/ASA</td><td></td></tr><tr><td></td><td valign="middle"><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/XY_Joints/a_Flange_Spacer_Pair.stl">a_Flange_Spacer_pair.stl</a></td><td>1x</td><td>ABS/ASA</td><td></td></tr><tr><td></td><td valign="middle"><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/XY_Joints/a_Xjoint_10mm_Idler_Spacers.stl">a_XJoint_10mm_Idler_Spacers.stl</a></td><td>1x</td><td>ABS/ASA</td><td><a href="build-instruction/phase-1/printing.md#measuring-parts">Measure Parts</a></td></tr><tr><td></td><td valign="middle"><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/XY_Joints/a_Xjoint_9mm_Idler_Spacers.stl">a_XJoint_9mm_Idler_Spacers.stl</a></td><td>1x</td><td>ABS/ASA</td><td><a href="build-instruction/phase-1/printing.md#measuring-parts">Measure Parts</a></td></tr><tr><td></td><td valign="middle"><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/XY_Joints/a_Xjoint_8mm_Idler_Spacers.stl">a_XJoint_8mm_Idler_Spacers.stl</a></td><td>1x</td><td>ABS/ASA</td><td><a href="build-instruction/phase-1/printing.md#measuring-parts">Measure Parts</a></td></tr></tbody></table>
 
 {% hint style="info" %}
-Only print the **XJoint  Idler Spacers** relevant for your setup.
+Only print the **XJoint Idler Spacers** relevant for your setup.
 {% endhint %}
 {% endtab %}
 
@@ -34,10 +34,13 @@ Only print the **XJoint  Idler Spacers** relevant for your setup.
 
 ### <mark style="color:red;">Front Towers</mark>
 
-<table><thead><tr><th width="99.5">Image</th><th width="299.5">File Name</th><th width="99.5">Qty.</th><th width="179.5">Plastic</th></tr></thead><tbody><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Front_Towers/a_Front_Tower_Left.stl">a_Front_Tower_Left.stl</a></td><td>1x</td><td>ABS/ASA</td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Front_Towers/a_Front_Tower_Right.stl">a_Front_Tower_Right.stl</a></td><td>1x</td><td>ABS/ASA</td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Front_Towers/Front_Tension_Plate_T-Nut_x2.stl">Front_Tension_Plate_T-Nut_x2.stl</a><br><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Front_Towers/Front_Tension_Plate_Tapped_x2.stl">Front_Tension_Plate_Tapped_x2.stl</a></td><td>2x</td><td>ABS/ASA</td></tr></tbody></table>
+<table><thead><tr><th width="99.5">Image</th><th width="299.5">File Name</th><th width="99.5">Qty.</th><th width="100">Plastic</th><th>Notes</th></tr></thead><tbody><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Front_Towers/a_Front_Tower_Left.stl">a_Front_Tower_Left.stl</a></td><td>1x</td><td>ABS/ASA</td><td></td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Front_Towers/a_Front_Tower_Right.stl">a_Front_Tower_Right.stl</a></td><td>1x</td><td>ABS/ASA</td><td></td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Front_Towers/Front_Tension_Plate_T-Nut_x2.stl">Front_Tension_Plate_T-Nut_x2.stl</a><br></td><td>2x</td><td>ABS/ASA</td><td>See Info Box</td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Front_Towers/Front_Tension_Plate_Tapped_x2.stl">Front_Tension_Plate_Tapped_x2.stl</a></td><td>2x</td><td>ABS/ASA</td><td>See Info Box</td></tr></tbody></table>
 
 {% hint style="info" %}
-To tap, or not to tap?
+To tap, or not to tap?<br>
+
+Tapped Tension Plates means tapping the end of the extrusion, and screwing it into those threads.\
+On the other hand, the T-Nut tension plates utilizes 2 T-Nuts in the front extrusions to fasten to.
 {% endhint %}
 
 ### <mark style="color:red;">Tools</mark>
