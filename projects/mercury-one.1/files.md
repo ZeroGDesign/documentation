@@ -34,14 +34,7 @@ Only print the **XJoint Idler Spacers** relevant for your setup.
 
 ### <mark style="color:red;">Front Towers</mark>
 
-<table><thead><tr><th width="99.5">Image</th><th width="299.5">File Name</th><th width="99.5">Qty.</th><th width="100">Plastic</th><th>Notes</th></tr></thead><tbody><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Front_Towers/a_Front_Tower_Left.stl">a_Front_Tower_Left.stl</a></td><td>1x</td><td>ABS/ASA</td><td></td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Front_Towers/a_Front_Tower_Right.stl">a_Front_Tower_Right.stl</a></td><td>1x</td><td>ABS/ASA</td><td></td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Front_Towers/Front_Tension_Plate_T-Nut_x2.stl">Front_Tension_Plate_T-Nut_x2.stl</a><br></td><td>2x</td><td>ABS/ASA</td><td>More Info</td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Front_Towers/Front_Tension_Plate_Tapped_x2.stl">Front_Tension_Plate_Tapped_x2.stl</a></td><td>2x</td><td>ABS/ASA</td><td>More Info</td></tr></tbody></table>
-
-{% hint style="info" %}
-To tap, or not to tap?<br>
-
-Tapped Tension Plates means tapping the end of the extrusion, and screwing it into those threads.\
-On the other hand, the T-Nut tension plates utilizes 2 T-Nuts in the front extrusions to fasten to.
-{% endhint %}
+<table><thead><tr><th width="99.5">Image</th><th width="299.5">File Name</th><th width="99.5">Qty.</th><th width="100">Plastic</th><th>Notes</th></tr></thead><tbody><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Front_Towers/a_Front_Tower_Left.stl">a_Front_Tower_Left.stl</a></td><td>1x</td><td>ABS/ASA</td><td></td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Front_Towers/a_Front_Tower_Right.stl">a_Front_Tower_Right.stl</a></td><td>1x</td><td>ABS/ASA</td><td></td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Front_Towers/Front_Tension_Plate_T-Nut_x2.stl">Front_Tension_Plate_T-Nut_x2.stl</a><br></td><td>2x</td><td>ABS/ASA</td><td><a href="build-instruction/phase-1/printing.md#recommended-print-settings">More Info</a></td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Front_Towers/Front_Tension_Plate_Tapped_x2.stl">Front_Tension_Plate_Tapped_x2.stl</a></td><td>2x</td><td>ABS/ASA</td><td><a href="build-instruction/phase-1/printing.md#recommended-print-settings">More Info</a></td></tr></tbody></table>
 
 ### <mark style="color:red;">Tools</mark>
 
@@ -49,12 +42,16 @@ On the other hand, the T-Nut tension plates utilizes 2 T-Nuts in the front extru
 
 ### <mark style="color:red;">Misc</mark>
 
-<table><thead><tr><th width="100">Image</th><th width="299.5">File Name</th><th width="100.5">Qty.</th><th width="100">Plastic</th><th>Notes</th></tr></thead><tbody><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Misc/Rear_Splitloom_Arm.stl">Rear_Splitloom_Arm.stl</a></td><td>1x</td><td>TBD</td><td></td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Misc/Y_Endstop.stl">Y_Endstop.stl</a></td><td>1x</td><td>TBD</td><td></td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Misc/5_Pro/Pro_Only_Z_Drop_Bracket_x2.stl">Pro_Only_Z_Drop_Bracket_x2.stl</a></td><td>2x</td><td>ABS/ASA</td><td><strong>ONLY</strong> used for the Pro</td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Misc/5_Plus/Plus_Only_Bed_Raiser_x4.stl">Plus_Only_Bed_Raiser_x4.stl</a></td><td>4x</td><td>ABS/ASA</td><td><strong>ONLY</strong> Used for the Plus</td></tr></tbody></table>
+<table><thead><tr><th width="100">Image</th><th width="299.5">File Name</th><th width="100.5">Qty.</th><th width="100">Plastic</th><th>Notes</th></tr></thead><tbody><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Misc/Rear_Splitloom_Arm.stl">Rear_Splitloom_Arm.stl</a></td><td>1x</td><td>ABS/ASA</td><td></td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Misc/Y_Endstop.stl">Y_Endstop.stl</a></td><td>1x</td><td>ABS/ASA</td><td></td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Misc/5_Pro/Pro_Only_Z_Drop_Bracket_x2.stl">Pro_Only_Z_Drop_Bracket_x2.stl</a></td><td>2x</td><td>ABS/ASA</td><td><strong>ONLY</strong> used for the Pro</td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Misc/5_Plus/Plus_Only_Bed_Raiser_x4.stl">Plus_Only_Bed_Raiser_x4.stl</a></td><td>4x</td><td>ABS/ASA</td><td><strong>ONLY</strong> Used for the Plus</td></tr></tbody></table>
 
 ### <mark style="color:red;">Optional: Lightweight Gantry Files</mark>
 
-<table><thead><tr><th width="99.5">Image</th><th width="300">File Name</th><th width="100">Qty.</th><th width="99.5">Plastic</th><th></th></tr></thead><tbody><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Misc/Lightweight_Gantry/x_endstop_block.stl">x_endstop_block.stl</a></td><td>1x</td><td>ABS/ASA</td><td><strong>ONLY</strong> Used for the Pro</td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Misc/Lightweight_Gantry/x_endstop_block_PLUS.stl">x_endstop_block_PLUS.stl</a></td><td>1x</td><td>ABS/ASA</td><td><strong>ONLY</strong> Used for the Plus</td></tr></tbody></table>
+<table><thead><tr><th width="99.5">Image</th><th width="300">File Name</th><th width="100">Qty.</th><th width="99.5">Plastic</th><th>Notes</th></tr></thead><tbody><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Misc/Lightweight_Gantry/x_endstop_block.stl">x_endstop_block.stl</a></td><td>1x</td><td>ABS/ASA</td><td><strong>ONLY</strong> Used for the Pro</td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Misc/Lightweight_Gantry/x_endstop_block_PLUS.stl">x_endstop_block_PLUS.stl</a></td><td>1x</td><td>ABS/ASA</td><td><strong>ONLY</strong> Used for the Plus</td></tr></tbody></table>
 
-
+{% hint style="info" %}
+These are only applicable if the Fysetc Lightweight Gantry Is used.
+{% endhint %}
 
 ### <mark style="color:red;">Nebula Specific Parts</mark>
+
+<table><thead><tr><th width="99.5">Image</th><th>File Name</th><th>Qty.</th><th>Plastic</th><th>Notes</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
