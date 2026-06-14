@@ -69,7 +69,17 @@ Here is an example of the printed spacer you need
 
 ## <mark style="color:red;">Tapped or T-Nut Tensioner plate?</mark> <a href="#recommended-print-settings" id="recommended-print-settings"></a>
 
-If you see this, I forgot to do it lol
+#### <mark style="color:red;">Tapped front tension plate</mark>
+
+The tapped version threads your extrusion directly. You'll use a tap to cut threads into the end of the aluminum extrusion, creating a threaded hole for the plate to screw into. We recommend using a spiral flute tap for clean, easy tapping.&#x20;
+
+#### <mark style="color:red;">T-nut front tension plate</mark>
+
+The T-nut version uses the front slot of your extrusion. You insert two T-nuts into the slot, then screw the plate into those T-nuts. This approach works well if you don't have tapping tools.
+
+{% hint style="info" %}
+**Nebula Frame**: If you're building the **Nebula Frame**, you must use the tapped front tension plate. The door clearance requires the smaller profile of the tapped version.
+{% endhint %}
 
 
 

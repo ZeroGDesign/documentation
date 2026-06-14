@@ -54,4 +54,8 @@ These are only applicable if the Fysetc Lightweight Gantry Is used.
 
 ### <mark style="color:red;">Nebula Specific Parts</mark>
 
-<table><thead><tr><th width="99.5">Image</th><th>File Name</th><th>Qty.</th><th>Plastic</th><th>Notes</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="99.5">Image</th><th width="300">File Name</th><th width="99.5">Qty.</th><th width="99.5">Plastic</th><th>Notes</th></tr></thead><tbody><tr><td></td><td><a href="https://github.com/ZeroGDesign/Nebula/blob/Nebula1/STLs/Misc/Nebula_Left_Stepper_Bottom.stl">Nebula_Left_Stepper_Bottom.stl</a></td><td>1x</td><td>ABS/ASA</td><td></td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/Nebula/blob/Nebula1/STLs/Misc/Nebula_Right_Stepper_Bottom.stl">Nebula_Right_Stepper_Bottom.stl</a></td><td>1x</td><td>ABS/ASA</td><td></td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/Nebula/blob/Nebula1/STLs/Misc/Enclosure_Tension_Plate.stl">Enclosure_Tension_Plate.stl</a></td><td>2x</td><td>ABS/ASA</td><td></td></tr></tbody></table>
+
+{% hint style="info" %}
+Thees parts are only needed if you're doing a Mercury build using the Nebula Frame.
+{% endhint %}
