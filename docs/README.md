@@ -36,17 +36,7 @@ On this website you’ll find all sorts of information, [ABS Printing Tips](guid
 
 Currently we’re working on instructions for three of our projects. Our projects are **Mercury One.1, Hydra** and **Nebula.**
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Mercury One.1</td><td><a href="https://app.gitbook.com/s/XgzDoYdwl0Vuu3qB4KOp/mercury-one.1/introduction">Introduction</a></td><td>Merc stuff</td><td><a href=".gitbook/assets/Header.png">Header.png</a></td></tr><tr><td>Hydra</td><td><a href="https://app.gitbook.com/s/XgzDoYdwl0Vuu3qB4KOp/hydra/introduction">Introduction</a></td><td>Hydra stuff</td><td><a href=".gitbook/assets/hydra_bare.png">hydra_bare.png</a></td></tr></tbody></table>
-
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Nebula</td><td><a href="https://app.gitbook.com/s/XgzDoYdwl0Vuu3qB4KOp/nebula/introduction">Introduction</a></td><td>Nebula stuff</td><td><a href=".gitbook/assets/full_frame_render.png">full_frame_render.png</a></td></tr><tr><td>Electronics</td><td></td><td>Electronics stuff</td><td><a href=".gitbook/assets/btt_octopus_pro.png">btt_octopus_pro.png</a></td></tr></tbody></table>
-
-{% content-ref url="https://app.gitbook.com/s/XgzDoYdwl0Vuu3qB4KOp/hydra" %}
-[Hydra](https://app.gitbook.com/s/XgzDoYdwl0Vuu3qB4KOp/hydra)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/XgzDoYdwl0Vuu3qB4KOp/nebula" %}
-[Nebula](https://app.gitbook.com/s/XgzDoYdwl0Vuu3qB4KOp/nebula)
-{% endcontent-ref %}
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Projects Introduction</td><td></td><td><a href=".gitbook/assets/Header.png">Header.png</a></td></tr></tbody></table>
 
 ## Discord
 
