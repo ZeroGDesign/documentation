@@ -4,6 +4,10 @@ icon: folder-open
 
 # Files
 
+### <mark style="color:red;">Print settings</mark> <a href="#print-settings" id="print-settings"></a>
+
+For the recommended settings when printing our parts, please click [here](https://docs.zerog.one/standard/print/settings). Deviating from these settings may result in lower quality prints, loss of features, and improper alignment.
+
 {% hint style="info" %}
 File names starting with 'a' can be printed in an accent color.
 {% endhint %}
@@ -35,6 +39,10 @@ Only print the **XJoint Idler Spacers** relevant for your setup.
 ### <mark style="color:red;">Front Towers</mark>
 
 <table><thead><tr><th width="99.5">Image</th><th width="299.5">File Name</th><th width="99.5">Qty.</th><th width="100">Plastic</th><th>Notes</th></tr></thead><tbody><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Front_Towers/a_Front_Tower_Left.stl">a_Front_Tower_Left.stl</a></td><td>1x</td><td>ABS/ASA</td><td></td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Front_Towers/a_Front_Tower_Right.stl">a_Front_Tower_Right.stl</a></td><td>1x</td><td>ABS/ASA</td><td></td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Front_Towers/Front_Tension_Plate_T-Nut_x2.stl">Front_Tension_Plate_T-Nut_x2.stl</a><br></td><td>2x</td><td>ABS/ASA</td><td><a href="build-instruction/phase-1/printing.md#recommended-print-settings">More Info</a></td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/MercuryOne/blob/MercuryOne.1/STLs/Front_Towers/Front_Tension_Plate_Tapped_x2.stl">Front_Tension_Plate_Tapped_x2.stl</a></td><td>2x</td><td>ABS/ASA</td><td><a href="build-instruction/phase-1/printing.md#recommended-print-settings">More Info</a></td></tr></tbody></table>
+
+{% hint style="info" %}
+Learn about Tapped vs T-Nut front tensioner plates [**here**](build-instruction/phase-1/printing.md#recommended-print-settings)
+{% endhint %}
 
 ### <mark style="color:red;">Tools</mark>
 
