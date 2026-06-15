@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Project Introduction](README.md)
+
 ## Mercury One.1
 
-* [Introduction](README.md)
+* [Introduction](<README (1).md>)
 * [Bill of material](mercury-one.1/bill-of-material.md)
 * [Files](mercury-one.1/files.md)
 * [Build Instruction](mercury-one.1/build-instruction/README.md)

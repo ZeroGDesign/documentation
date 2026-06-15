@@ -53,11 +53,11 @@ Estimated filament used: \~95g
 
 {% columns %}
 {% column %}
-Estimated filament used:&#x20;
+Estimated filament used: \~125g
 {% endcolumn %}
 
 {% column %}
-\~125g
+
 {% endcolumn %}
 {% endcolumns %}
 
@@ -65,7 +65,15 @@ Estimated filament used:&#x20;
 
 ### <mark style="color:red;">Mini Tanks</mark>
 
-Estimated filament:
+{% columns %}
+{% column %}
+Estimated filament used: \~7g
+{% endcolumn %}
+
+{% column %}
+
+{% endcolumn %}
+{% endcolumns %}
 
 Measure your magnets to find the correct file.
 
@@ -95,7 +103,15 @@ We often see that magnets arrive slightly out of spec, we have included files to
 
 ### <mark style="color:red;">Misc</mark>
 
-Estimated filament:
+{% columns %}
+{% column %}
+Estimated filament used: \~21g
+{% endcolumn %}
+
+{% column %}
+
+{% endcolumn %}
+{% endcolumns %}
 
 <table><thead><tr><th width="99.5">Image</th><th width="299.5">File Name</th><th width="79.5">Qty.</th><th width="99.5">Plastic</th><th width="142">Notes</th></tr></thead><tbody><tr><td></td><td><a href="https://github.com/ZeroGDesign/Hydra/blob/Hydra1/STLs/Misc/Chain_End.stl">Chain_End.stl</a></td><td>2x</td><td>ABS/ASA</td><td>End for Cable Chain</td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/Hydra/blob/Hydra1/STLs/Misc/2020_Cable_Tie.stl">2020_Cable_Tie.stl</a></td><td>3x</td><td>ABS/ASA</td><td>Exact qty. varies</td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/Hydra/blob/Hydra1/STLs/Misc/Wago_221_Triple.stl">Wago_221_Triple.stl</a></td><td>1x</td><td>ABS/ASA</td><td>3x 2 Port Wago</td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/Hydra/blob/Hydra1/STLs/Misc/Wago_221_Fabreeko_Heater.stl">Wago_221_Fabreeko_Heater.stl</a></td><td>1x</td><td>ABS/ASA</td><td>2x 2 Port, 1x 3 Port Wago</td></tr></tbody></table>
 
