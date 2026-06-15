@@ -51,7 +51,15 @@ Estimated filament used: \~95g
 
 ### <mark style="color:red;">Hydra Arms</mark>
 
-Estimated filament:
+{% columns %}
+{% column %}
+Estimated filament used:&#x20;
+{% endcolumn %}
+
+{% column %}
+\~125g
+{% endcolumn %}
+{% endcolumns %}
 
 <table><thead><tr><th width="100">Image</th><th width="300">File Name</th><th width="80">Qty.</th><th width="100">Plastic</th><th>Notes</th></tr></thead><tbody><tr><td></td><td><a href="https://github.com/ZeroGDesign/Hydra/blob/Hydra1/STLs/Arms/Left_Arm.stl">Left_Arm.stl</a></td><td>1x</td><td>ABS/ASA</td><td></td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/Hydra/blob/Hydra1/STLs/Arms/Rear_Arm.stl">Rear_Arm.stl</a></td><td>1x</td><td>ABS/ASA</td><td></td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/Hydra/blob/Hydra1/STLs/Arms/Right_Arm.stl">Right_Arm.stl</a></td><td>1x</td><td>ABS/ASA</td><td></td></tr></tbody></table>
 
