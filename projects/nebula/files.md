@@ -34,6 +34,10 @@ This page splits parts up in tabs, one for Nebula255, another for the Nebula370,
 {% tab title="Nebula - 255" %}
 ### <mark style="color:red;">Door</mark>
 
+```
+Estimated weight: 12g
+```
+
 <table><thead><tr><th width="99.5">Image</th><th width="299.5">File Name</th><th width="99.5">Qty.</th><th width="100">Plastic</th><th>Notes</th></tr></thead><tbody><tr><td></td><td><a href="https://github.com/ZeroGDesign/Nebula/blob/Nebula1/STLs/Doors/Nebula_255/Base_Hinge_X3.stl">Base_Hinge_X3.stl</a></td><td>3x</td><td>ABS/ASA</td><td>Plain Hinges*</td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/Nebula/blob/Nebula1/STLs/Doors/Nebula_255/Left_Logo_Hinge_Multicolor_X2.stl">Left_Logo_Hinge_Multicolor_X2.stl</a></td><td>2x</td><td>ABS/ASA</td><td>Logo Hinges*</td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/Nebula/blob/Nebula1/STLs/Doors/Nebula_255/Door_Handle.stl">Door_Handle.stl</a></td><td>1x</td><td>ABS/ASA</td><td>Door handle</td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/Nebula/blob/Nebula1/STLs/Doors/Nebula_255/Zerog_Handle_text.stl">Zerog_Handle_text.stl</a></td><td>1x</td><td>ABS/ASA/PETG/PLA</td><td>Text inlay </td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/Nebula/blob/Nebula1/STLs/Doors/Nebula_255/Door_Handle_Spacer_3mm.stl">Door_Handle_Spacer_3mm.stl</a></td><td>1x</td><td>ABS/ASA</td><td>Spacer</td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/Nebula/blob/Nebula1/STLs/Doors/Nebula_255/Door_Magnet_Latch.stl">Door_Magnet_Latch.stl</a></td><td>1x</td><td>ABS/ASA</td><td>Magnet latch</td></tr><tr><td></td><td><a href="https://github.com/ZeroGDesign/Nebula/blob/Nebula1/STLs/Doors/Nebula_255/Magnet_Corner_Cap_3mm_x4.stl">Magnet_Corner_Cap_3mm_x4.stl</a></td><td>4x</td><td>ABS/ASA</td><td>Corner caps </td></tr></tbody></table>
 
 {% hint style="info" %}
