@@ -26,15 +26,6 @@ layout:
 
 For the recommended settings when printing our parts, please click [here](https://docs.zerog.one/standard/print/settings). Deviating from these settings may result in lower quality prints, loss of features, and improper alignment.
 
-### <mark style="color:red;">Step Files</mark> <a href="#step-files" id="step-files"></a>
-
-You can now download the step files for our Mercury One.1! Select the appropriate size for your 3D printer:
-
-* [Ender 5 (pro) Size - Hydra\_5pro.zip](https://docs.zerog.one/assets/stl/hydra/Hydra_5pro.zip)
-* [Ender 5 Plus Size - Hydra\_5Plus.zip](https://docs.zerog.one/assets/stl/hydra/Hydra_5Plus.zip)
-
-Simply click on the desired link and start creating your masterpiece with ease.
-
 ### <mark style="color:red;">Z Stepper Mounts</mark> <a href="#downloading-stl-files" id="downloading-stl-files"></a>
 
 {% columns %}
